@@ -1,4 +1,4 @@
-<h1 align="center">「 Kotlin 」- Projeto_Sintaxe_Ⅰ</h1>
+<h1 align="center">「 Kotlin 」- Projetos_AndroidStudio</h1>
 
 
 
@@ -15,8 +15,8 @@ Este projeto utiliza alguns conceitos do Kotlin, como o desenvolvimento de funç
 
 Ferramentas utilizadas no desenvolvimento do projeto:
 
-- IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio</a>
-- SDK: <a href="https://www.jdoodle.com/compile-kotlin-online">JDoodle</a>
+- IDE: <a href="https://developer.android.com/studio?gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQjwm7q-BhDRARIsACD6-fXhO3ymKJ4PYj3f_Uiy-gcUgjqVXXAr4PKvIC6XXtXHzCuj_PjXL8caAte3EALw_wcB&hl=pt-br">AndroidStudio</a>
+
 
 <h2 id=installation>📋 Instalação</h2>
 
