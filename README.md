@@ -9,7 +9,7 @@ O objetivo do projeto é começar o estudo da linguagem Kotlin e aprender suas s
 
 <h2 id=features>⚙️ Funcionalidades </h2>
 
-Este projeto utiliza alguns conceitos do Kotlin, como o desenvolvimento de funções, variáveis, uso do método readLine(), print() e expressões numéricas.
+Este projeto utiliza alguns conceitos do Kotlin, como o desenvolvimento de métodos, expressões numéricas e criação de variáveis.
 
 <h2 id=technology>💻 Tecnologias</h2>
 
@@ -25,7 +25,7 @@ Ferramentas utilizadas no desenvolvimento do projeto:
 3. Instale o AndroidStudio.
 4. Abra a pasta no AndroidStudio como um projeto já existente.
 
-<h2 id=author>🏷️ Autor</h2>
+<h2 id=author>🏷️ Autores</h2>
 
 Desenvolvido por: <a href="https://www.linkedin.com/in/gabrielaschaper/" target="_blank">GabiScha</a>, 
 <a href="https://github.com/ferreiraryan" target="_blank">Ryan</a> e 
