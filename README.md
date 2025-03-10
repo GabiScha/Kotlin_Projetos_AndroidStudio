@@ -29,4 +29,4 @@ Ferramentas utilizadas no desenvolvimento do projeto:
 
 Desenvolvido por: <a href="https://www.linkedin.com/in/gabrielaschaper/" target="_blank">GabiScha</a>, 
 <a href="https://github.com/ferreiraryan" target="_blank">Ryan</a> e 
-<a href="https://github.com/FilipeS4ntts" target="_blank">Filipe Santana</a>
+<a href="https://github.com/FilipeS4ntts" target="_blank">Filipe Santana</a>.
